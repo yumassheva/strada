@@ -35,4 +35,3 @@ a=num++;
 console.log(a);//22
 b = num;
 console.log(b);//23
-console.log('haha');
