@@ -17,6 +17,8 @@ let SecondName = 'Yumasheva ';
 let Age = 21;
 console.log(Name + SecondName + Age); //правильное название переменных
 
+console.log("surprise");
+
 let name = '1';
 console.log(`Hi ,${name+1}`);//обратные кавычки позволяют вставить {}
 let True = 4 > 1; //булевы
